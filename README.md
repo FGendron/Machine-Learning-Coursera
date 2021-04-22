@@ -4,6 +4,8 @@ Exemples are from the Coursera MOOC on Machine Learning from Standford Uni.
 Originally designed in Octave, I have redone the thing in python using jupyter notebooks.
 
 Ordering:
-  - Linear Regression with one variable
-  - Linear Regression with mulit variables
+  - Ex1 : Linear Regression with one variable
+  - Ex2 : Linear Regression with multiple variables
+  - Ex3 : Logistic Regression and Multi-Class Classification
+  - Ex4 : Neural Network with the Handwritting digit problem
 
