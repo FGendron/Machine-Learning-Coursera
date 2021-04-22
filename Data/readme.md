@@ -1,1 +1,1 @@
-This directory contains the data for the different notebook
+This directory contains the data for the different notebooks
