@@ -8,4 +8,5 @@ Ordering:
   - Ex2 : Linear Regression with multiple variables
   - Ex3 : Logistic Regression and Multi-Class Classification
   - Ex4 : Neural Network with the Handwritting digit problem
+  - Ex5 : Regularized Linear Regression and Bias Vs. Variance
 
